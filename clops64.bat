@@ -1,0 +1,1 @@
+@builds\vs2017-64\Debug\gops64.exe %*
